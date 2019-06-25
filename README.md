@@ -13,6 +13,7 @@ https://gbatemp.net/threads/crash-team-racing-720p-handheld-patch.541580/
 
 
 **Xenoblade Chronicles 2 (Torna The Golden Country) Graphics Settings**
+
 _Tab "Next Method"_
 
 https://gbatemp.net/threads/xenoblade-chronicles-2-graphics-settings.529436/
