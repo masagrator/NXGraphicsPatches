@@ -1,2 +1,2 @@
-It changes docked mode resolution to 1600x900,
-undocked mode to 1280x720
+It changes docked mode resolution from 1280x720 to 1600x900,
+undocked mode from 854x480 to 1280x720
