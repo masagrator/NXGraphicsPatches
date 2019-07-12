@@ -1,1 +1,1 @@
-This exefs patch forces docked mode Performance Mode to handheld mode.
+This exefs patch changes graphics settings for handheld mode to be the same as for docked mode.
