@@ -27,3 +27,7 @@ https://gbatemp.net/threads/god-eater-3-60-fps-mod.543132/
 _High Resolution handheld_
 
 https://gbatemp.net/threads/god-eater-3-high-resolution-handheld-mod.543237/
+
+**Bloodstained: Ritual of the Night 60 FPS**
+
+https://gbatemp.net/threads/bloodstained-ritual-of-the-night-60-fps-mod.545069/
