@@ -38,6 +38,6 @@ https://gbatemp.net/threads/xenoblade-chronicles-2-graphics-settings.529436/
 
 ---
 
-**Yooka-Laylee 60 FPS***
+**Yooka-Laylee 60 FPS**
 
 https://gbatemp.net/threads/yooka-laylee-60-fps-mod.545336/
