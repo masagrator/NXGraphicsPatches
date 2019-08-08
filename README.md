@@ -30,7 +30,7 @@ https://gbatemp.net/threads/god-eater-3-high-resolution-handheld-mod.543237/
 
 ---
 
-**Sword Art Online: Fatal Bullet 60 FPS mod***
+**Sword Art Online: Fatal Bullet 60 FPS mod**
 
 https://gbatemp.net/threads/sword-art-online-fatal-bullet-60-fps-mod.545503/#post-8748242
 
