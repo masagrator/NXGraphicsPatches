@@ -18,6 +18,12 @@ https://gbatemp.net/threads/crash-team-racing-720p-handheld-patch.541580/
 
 ---
 
+**Everspace 60 FPS**
+
+https://gbatemp.net/threads/everspace-60-fps-mod.545812/
+
+---
+
 **God Eater 3**
 
 _60 FPS_
@@ -30,7 +36,13 @@ https://gbatemp.net/threads/god-eater-3-high-resolution-handheld-mod.543237/
 
 ---
 
-**Sword Art Online: Fatal Bullet 60 FPS mod**
+**Overcooked 2 60 FPS***
+
+https://gbatemp.net/threads/overcooked-2-60-fps-mod.545814/
+
+---
+
+**Sword Art Online: Fatal Bullet 60 FPS**
 
 https://gbatemp.net/threads/sword-art-online-fatal-bullet-60-fps-mod.545503/#post-8748242
 
