@@ -36,7 +36,7 @@ https://gbatemp.net/threads/god-eater-3-high-resolution-handheld-mod.543237/
 
 ---
 
-**Overcooked 2 60 FPS***
+**Overcooked 2 60 FPS**
 
 https://gbatemp.net/threads/overcooked-2-60-fps-mod.545814/
 
