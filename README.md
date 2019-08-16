@@ -42,6 +42,18 @@ https://gbatemp.net/threads/overcooked-2-60-fps-mod.545814/
 
 ---
 
+**SINNER: Sacrifice for Redemption 60 FPS**
+
+https://gbatemp.net/threads/sinner-sacrifice-for-redemption-60-fps.546118/
+
+---
+
+**Subdivision Infinity DX 60 FPS**
+
+https://gbatemp.net/threads/subdivision-infinity-dx-60-fps-mod.546129/
+
+---
+
 **Sword Art Online: Fatal Bullet 60 FPS**
 
 https://gbatemp.net/threads/sword-art-online-fatal-bullet-60-fps-mod.545503/#post-8748242
