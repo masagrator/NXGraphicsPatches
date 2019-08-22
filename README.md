@@ -42,13 +42,13 @@ https://gbatemp.net/threads/god-eater-3-high-resolution-handheld-mod.543237/
 
 ---
 
-**I am Setsuna 60 FPS***
+**I am Setsuna 60 FPS**
 
 https://gbatemp.net/threads/i-am-setsuna-60-fps-mod.546577/
 
 ---
 
-**Lost Sphear 60 FPS***
+**Lost Sphear 60 FPS**
 
 https://gbatemp.net/threads/lost-sphear-60-fps-mod.546552/
 
