@@ -24,7 +24,7 @@ https://gbatemp.net/threads/everspace-60-fps-mod.545812/
 
 ---
 
-***FE 60 FPS**
+**FE 60 FPS**
 
 https://gbatemp.net/threads/fe-60-fps-mod.546583/
 
