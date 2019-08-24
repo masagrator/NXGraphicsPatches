@@ -1,5 +1,11 @@
 More information about patches:
 
+**American Fugitive 60 FPS**
+
+https://gbatemp.net/threads/american-fugitive-60-fps-mod.546605/
+
+---
+
 **Bloodstained: Ritual of the Night 60 FPS**
 
 https://gbatemp.net/threads/bloodstained-ritual-of-the-night-60-fps-mod.545069/
@@ -51,6 +57,12 @@ https://gbatemp.net/threads/i-am-setsuna-60-fps-mod.546577/
 **Lost Sphear 60 FPS**
 
 https://gbatemp.net/threads/lost-sphear-60-fps-mod.546552/
+
+---
+
+**Oninaki 60 FPS***
+
+https://gbatemp.net/threads/oninaki-60-fps-mod.546662/
 
 ---
 
