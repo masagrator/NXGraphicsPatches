@@ -60,7 +60,7 @@ https://gbatemp.net/threads/lost-sphear-60-fps-mod.546552/
 
 ---
 
-**Oninaki 60 FPS***
+**Oninaki 60 FPS**
 
 https://gbatemp.net/threads/oninaki-60-fps-mod.546662/
 
