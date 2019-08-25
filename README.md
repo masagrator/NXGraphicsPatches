@@ -24,6 +24,12 @@ https://gbatemp.net/threads/crash-team-racing-720p-handheld-patch.541580/
 
 ---
 
+**Dragon Quest XI S Demo 60 FPS**
+
+https://gbatemp.net/threads/dragon-quest-xi-s-demo-60-fps-mod.546705/
+
+---
+
 **Everspace 60 FPS**
 
 https://gbatemp.net/threads/everspace-60-fps-mod.545812/
