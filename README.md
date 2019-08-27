@@ -78,6 +78,12 @@ https://gbatemp.net/threads/overcooked-2-60-fps-mod.545814/
 
 ---
 
+**RISE: Race The Future 60 FPS**
+
+https://gbatemp.net/threads/rise-race-the-future-60-fps-mod.546882/
+
+---
+
 **SINNER: Sacrifice for Redemption 60 FPS**
 
 https://gbatemp.net/threads/sinner-sacrifice-for-redemption-60-fps.546118/
