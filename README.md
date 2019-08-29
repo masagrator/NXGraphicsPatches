@@ -1,5 +1,11 @@
 More information about patches:
 
+**AER: Memories of Old 60 FPS**
+
+https://gbatemp.net/threads/aer-memories-of-old-60-fps-mod.547058/
+
+---
+
 **American Fugitive 60 FPS**
 
 https://gbatemp.net/threads/american-fugitive-60-fps-mod.546605/
