@@ -90,6 +90,12 @@ https://gbatemp.net/threads/rise-race-the-future-60-fps-mod.546882/
 
 ---
 
+**Risk of Rain 2**
+
+https://gbatemp.net/threads/risk-of-rain-2-60-fps-mod.547161/
+
+---
+
 **SINNER: Sacrifice for Redemption 60 FPS**
 
 https://gbatemp.net/threads/sinner-sacrifice-for-redemption-60-fps.546118/
