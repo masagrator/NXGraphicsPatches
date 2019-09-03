@@ -48,6 +48,12 @@ https://gbatemp.net/threads/fe-60-fps-mod.546583/
 
 ---
 
+**Fire Emblem: Three Houses 60 FPS**
+
+https://gbatemp.net/threads/fire-emblem-three-houses-60-fps-mod.547333/#post-8777138
+
+---
+
 **God Eater 3**
 
 _60 FPS_
