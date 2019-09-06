@@ -108,6 +108,12 @@ https://gbatemp.net/threads/sinner-sacrifice-for-redemption-60-fps.546118/
 
 ---
 
+**Snake Pass 60 FPS**
+
+https://gbatemp.net/threads/snake-pass-60-fps-mod.547557/
+
+---
+
 **Subdivision Infinity DX 60 FPS**
 
 https://gbatemp.net/threads/subdivision-infinity-dx-60-fps-mod.546129/
