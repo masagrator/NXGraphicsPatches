@@ -126,6 +126,12 @@ https://gbatemp.net/threads/sword-art-online-fatal-bullet-60-fps-mod.545503/#pos
 
 ---
 
+**Team Sonic Racing 60 FPS**
+
+https://gbatemp.net/threads/team-sonic-racing-60-fps-mod.547730/
+
+---
+
 **Xenoblade Chronicles 2 (Torna The Golden Country) Graphics Settings**
 
 _Tab "Next Method"_
