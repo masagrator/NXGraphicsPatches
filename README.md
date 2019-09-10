@@ -1,5 +1,11 @@
 More information about patches:
 
+**ABZU 60 FPS**
+
+https://gbatemp.net/threads/abzu-60-fps-mod.547812/
+
+---
+
 **AER: Memories of Old 60 FPS**
 
 https://gbatemp.net/threads/aer-memories-of-old-60-fps-mod.547058/
