@@ -138,6 +138,12 @@ https://gbatemp.net/threads/team-sonic-racing-60-fps-mod.547730/
 
 ---
 
+**The Sinking City 60 FPS**
+
+https://gbatemp.net/threads/the-sinking-city-60-fps-mod.547950/
+
+---
+
 **Xenoblade Chronicles 2 (Torna The Golden Country) Graphics Settings**
 
 _Tab "Next Method"_
