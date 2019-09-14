@@ -30,9 +30,15 @@ https://gbatemp.net/threads/crash-bandicoot-trilogy-720p-handheld-patch.541649/
 
 ---
 
-**Crash Team Racing 720p Handheld mode**
+**Crash Team Racing** 
+
+_720p Handheld mode_
 
 https://gbatemp.net/threads/crash-team-racing-720p-handheld-patch.541580/
+
+_60 FPS_
+
+https://gbatemp.net/threads/crash-team-racing-60-fps-mod.548063/
 
 ---
 
