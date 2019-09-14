@@ -84,6 +84,12 @@ https://gbatemp.net/threads/lost-sphear-60-fps-mod.546552/
 
 ---
 
+**Mario + Rabbids Kingdom Battle 60 FPS**
+
+https://gbatemp.net/threads/mario-rabbids-kingdom-battle-60-fps-mod.548057/
+
+---
+
 **Oninaki 60 FPS**
 
 https://gbatemp.net/threads/oninaki-60-fps-mod.546662/
