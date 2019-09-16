@@ -108,6 +108,12 @@ https://gbatemp.net/threads/overcooked-2-60-fps-mod.545814/
 
 ---
 
+**Rain World 60 FPS**
+
+https://gbatemp.net/threads/rain-world-60-fps-mod.548228/#post-8792302
+
+---
+
 **RISE: Race The Future 60 FPS**
 
 https://gbatemp.net/threads/rise-race-the-future-60-fps-mod.546882/
