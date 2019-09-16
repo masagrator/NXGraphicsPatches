@@ -24,9 +24,15 @@ https://gbatemp.net/threads/bloodstained-ritual-of-the-night-60-fps-mod.545069/
 
 ---
 
-**Crash Bandicoot N.Sane Trilogy 720p Handheld mode**
+**Crash Bandicoot N.Sane Trilogy**
+
+_720p Handheld mode_
 
 https://gbatemp.net/threads/crash-bandicoot-trilogy-720p-handheld-patch.541649/
+
+_60 FPS_
+
+https://gbatemp.net/threads/crash-bandicoot-n-sane-trilogy-60-fps-mod.548123/
 
 ---
 
