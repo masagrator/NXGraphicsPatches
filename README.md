@@ -162,6 +162,12 @@ https://gbatemp.net/threads/team-sonic-racing-60-fps-mod.547730/
 
 ---
 
+**The Caligula Effect: Overdose 60 FPS**
+
+https://gbatemp.net/threads/the-caligula-effect-overdose-60-fps-mod.548358/
+
+---
+
 **The Sinking City 60 FPS**
 
 https://gbatemp.net/threads/the-sinking-city-60-fps-mod.547950/
