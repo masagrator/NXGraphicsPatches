@@ -84,6 +84,12 @@ https://gbatemp.net/threads/god-eater-3-high-resolution-handheld-mod.543237/
 
 ---
 
+**GRID: Autosport Quality 60 FPS**
+
+https://gbatemp.net/threads/grid-autosport-quality-60-fps-mod.548442/
+
+---
+
 **I am Setsuna 60 FPS**
 
 https://gbatemp.net/threads/i-am-setsuna-60-fps-mod.546577/
