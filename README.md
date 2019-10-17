@@ -48,6 +48,12 @@ https://gbatemp.net/threads/crash-team-racing-60-fps-mod.548063/
 
 ---
 
+**Dragon Quest XI S 60 FPS**
+
+https://gbatemp.net/threads/dragon-quest-xi-s-full-version-60-fps-mod.549126/unread
+
+---
+
 **Dragon Quest XI S Demo 60 FPS**
 
 https://gbatemp.net/threads/dragon-quest-xi-s-demo-60-fps-mod.546705/
