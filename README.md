@@ -180,6 +180,18 @@ https://gbatemp.net/threads/the-caligula-effect-overdose-60-fps-mod.548358/
 
 ---
 
+**The Witcher 3**
+
+_Enhanced Settings_
+
+https://gbatemp.net/threads/the-witcher-3-enhanced-settings-mod.549937/
+
+_60 FPS & Dynamic Resolution Tweaks_
+
+https://gbatemp.net/threads/the-witcher-3-60-fps-and-dynamic-resolution-tweaks.550211/
+
+---
+
 **The Sinking City 60 FPS**
 
 https://gbatemp.net/threads/the-sinking-city-60-fps-mod.547950/
