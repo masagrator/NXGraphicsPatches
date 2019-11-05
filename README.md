@@ -1,5 +1,12 @@
 More information about patches:
 
+
+**A Hat in Time 60 FPS**
+
+https://gbatemp.net/threads/a-hat-in-time-60-fps-mod.551579/
+
+---
+
 **ABZU 60 FPS**
 
 https://gbatemp.net/threads/abzu-60-fps-mod.547812/
@@ -15,6 +22,12 @@ https://gbatemp.net/threads/aer-memories-of-old-60-fps-mod.547058/
 **American Fugitive 60 FPS**
 
 https://gbatemp.net/threads/american-fugitive-60-fps-mod.546605/
+
+---
+
+**Atelier Ryza: Ever Darkness & the Secret Hideout 60 FPS***
+
+https://gbatemp.net/threads/atelier-ryza-ever-darkness-the-secret-hideout-60fps-mod.551538/
 
 ---
 
