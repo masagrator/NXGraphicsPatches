@@ -61,6 +61,12 @@ https://gbatemp.net/threads/crash-team-racing-60-fps-mod.548063/
 
 ---
 
+**Destiny Connect: Tick-Tock Travelers 60 FPS**
+
+https://gbatemp.net/threads/destiny-connect-tick-tock-travelers-60-fps-mod.551645/
+
+---
+
 **Dragon Quest XI S 60 FPS**
 
 https://gbatemp.net/threads/dragon-quest-xi-s-full-version-60-fps-mod.549126/unread
