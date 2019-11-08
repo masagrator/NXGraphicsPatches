@@ -97,6 +97,12 @@ https://gbatemp.net/threads/fire-emblem-three-houses-60-fps-mod.547333/#post-877
 
 ---
 
+**Garfield Kart Furious Racing 60 FPS**
+
+https://gbatemp.net/threads/garfield-kart-furious-racing-60-fps-mod.551776/
+
+---
+
 **God Eater 3**
 
 _60 FPS_
