@@ -127,6 +127,12 @@ https://gbatemp.net/threads/i-am-setsuna-60-fps-mod.546577/
 
 ---
 
+**Kirby Star Allies 60 FPS**
+
+https://gbatemp.net/threads/kirby-star-allies-60fps-hack.551834/
+
+---
+
 **Lost Sphear 60 FPS**
 
 https://gbatemp.net/threads/lost-sphear-60-fps-mod.546552/
