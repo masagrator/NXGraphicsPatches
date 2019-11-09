@@ -139,6 +139,12 @@ https://gbatemp.net/threads/mario-rabbids-kingdom-battle-60-fps-mod.548057/
 
 ---
 
+**New Super Lucky's Tale 60 FPS**
+
+https://gbatemp.net/threads/new-super-luckys-tale-60-fps-mod.551832/
+
+---
+
 **Oninaki 60 FPS**
 
 https://gbatemp.net/threads/oninaki-60-fps-mod.546662/
