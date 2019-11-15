@@ -175,7 +175,7 @@ https://gbatemp.net/threads/rise-race-the-future-60-fps-mod.546882/
 
 ---
 
-**Risk of Rain 2**
+**Risk of Rain 2 60 FPS**
 
 https://gbatemp.net/threads/risk-of-rain-2-60-fps-mod.547161/
 
