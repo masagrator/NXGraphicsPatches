@@ -91,6 +91,12 @@ https://gbatemp.net/threads/fe-60-fps-mod.546583/
 
 ---
 
+**Final Fantasy XII PS2 FOV**
+
+https://gbatemp.net/threads/cheat-codes-ams-and-sx-os-add-and-request.520293/page-535#post-8786559
+
+---
+
 **Fire Emblem: Three Houses 60 FPS**
 
 https://gbatemp.net/threads/fire-emblem-three-houses-60-fps-mod.547333/#post-8777138
