@@ -91,7 +91,7 @@ https://gbatemp.net/threads/fe-60-fps-mod.546583/
 
 ---
 
-**Final Fantasy XII PS2 FOV**
+**Final Fantasy XII PS2 Vertical FOV**
 
 https://gbatemp.net/threads/cheat-codes-ams-and-sx-os-add-and-request.520293/page-535#post-8786559
 
