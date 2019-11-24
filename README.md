@@ -205,6 +205,12 @@ https://gbatemp.net/threads/subdivision-infinity-dx-60-fps-mod.546129/
 
 ---
 
+**Super Kirby Clash 60 FPS**
+
+https://gbatemp.net/threads/super-kirby-clash-60fps-hack.552827/
+
+---
+
 **Sword Art Online: Fatal Bullet 60 FPS**
 
 https://gbatemp.net/threads/sword-art-online-fatal-bullet-60-fps-mod.545503/#post-8748242
