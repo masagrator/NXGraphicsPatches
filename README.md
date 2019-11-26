@@ -193,6 +193,12 @@ https://gbatemp.net/threads/risk-of-rain-2-60-fps-mod.547161/
 
 ---
 
+**Senran Kagura Peach Ball 60 FPS**
+
+https://gbatemp.net/threads/senran-kagura-peach-ball-60-fps.553086/
+
+---
+
 **SINNER: Sacrifice for Redemption 60 FPS**
 
 https://gbatemp.net/threads/sinner-sacrifice-for-redemption-60-fps.546118/
