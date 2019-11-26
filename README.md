@@ -235,6 +235,12 @@ https://gbatemp.net/threads/the-caligula-effect-overdose-60-fps-mod.548358/
 
 ---
 
+**The Stretchers 60 FPS**
+
+https://gbatemp.net/threads/the-stretchers-60-fps-mod.553073/
+
+---
+
 **The Witcher 3**
 
 _Enhanced Settings_
