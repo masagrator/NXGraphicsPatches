@@ -151,6 +151,12 @@ https://gbatemp.net/threads/mario-rabbids-kingdom-battle-60-fps-mod.548057/
 
 ---
 
+**Monster Hunter Generations Ultimate 60 FPS**
+
+https://gbatemp.net/threads/monster-hunter-generations-ultimate-60-fps-hack.553053/
+
+---
+
 **New Super Lucky's Tale 60 FPS**
 
 https://gbatemp.net/threads/new-super-luckys-tale-60-fps-mod.551832/
