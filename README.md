@@ -67,6 +67,12 @@ https://gbatemp.net/threads/destiny-connect-tick-tock-travelers-60-fps-mod.55164
 
 ---
 
+**Dragon's Dogma: Dark Arisen 60 FPS**
+
+https://gbatemp.net/threads/dragons-dogma-dark-arisen-60-fps-hack.553129/
+
+---
+
 **Dragon Quest XI S 60 FPS**
 
 https://gbatemp.net/threads/dragon-quest-xi-s-full-version-60-fps-mod.549126/unread
