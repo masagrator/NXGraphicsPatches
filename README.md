@@ -19,6 +19,12 @@ https://gbatemp.net/threads/aer-memories-of-old-60-fps-mod.547058/
 
 ---
 
+**Alien Isolation 60 FPS, Enhanced Graphics Settings & more**
+
+https://gbatemp.net/threads/alien-isolation-60-fps-enhanced-graphics-settings-more.553647/
+
+---
+
 **American Fugitive 60 FPS**
 
 https://gbatemp.net/threads/american-fugitive-60-fps-mod.546605/
