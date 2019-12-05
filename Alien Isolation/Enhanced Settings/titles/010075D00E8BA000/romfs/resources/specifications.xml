@@ -1,0 +1,138 @@
+<gameinfo>
+
+    <!-- GAME INFO START -->
+
+	<!-- *** DO NOT EDIT ANYTHING IN THIS SECTION - AUTO GENERATED FROM GAME INFO *** -->
+
+	<spec>
+		<regkey>
+			<value name="DonePromotional"     type="integer">0</value>
+			<value name="DoneUnsupported"     type="integer">0</value>
+			<value name="DoneMinOS"           type="integer">0</value>
+		</regkey>
+	</spec>
+
+
+	<date>20190605193459</date>
+	
+	
+	<!-- GAME INFO END -->
+
+
+	<spec>
+		<uuid>SwitchDefaultSpecificationsClass11a25_2</uuid>
+
+		<regkey>
+			<!-- Game graphics settings -->
+			<value name="VideoSetting_AntiAliasing"                           type="integer">0</value>
+			<value name="VideoSetting_ChromaticAberrations"                   type="integer">1</value>
+			<value name="VideoSetting_Deep Colour (30bpp)"                    type="integer">0</value>
+			<value name="VideoSetting_Depth of Field"                         type="integer">1</value>
+			<value name="VideoSetting_Level of Detail"                        type="integer">1</value>
+			<value name="VideoSetting_MotionBlur"                             type="integer">0</value>
+			<value name="VideoSetting_Particles"                              type="integer">0</value>
+			<value name="VideoSetting_Planar Reflections"                     type="integer">1</value>
+			<value name="VideoSetting_Screen Space Ambient Occlusion"         type="integer">0</value>
+			<value name="VideoSetting_ShadowMapping"                          type="integer">1</value>
+			<value name="VideoSetting_ShadowMapResolution"                    type="integer">1</value>
+			<value name="VideoSetting_Texture Filtering"                      type="integer">2</value>
+			<value name="VideoSetting_Vertical Sync"                          type="integer">0</value>
+			<value name="VideoSetting_Volumetric Lighting"                    type="integer">0</value>
+
+			<!-- fbug://fbug://ALIENISO-1251 -->
+			<value name="ForceVolumetricLightingLevels"                       type="string">Production\HAB_Airport</value>
+
+			<!-- Feral graphics settings -->
+			<value name="DisallowCustomFOV"                                   type="integer">0</value>
+			<value name="LowQualityDoF"                                       type="integer">1</value>
+			<value name="GenerateUILayerMips"                                 type="integer">1</value>
+			<value name="LowResPlanarReflections"                             type="integer">1</value>
+			<value name="ForceLowResAlpha"                                    type="integer">1</value>
+
+			<!-- Performance tweaks -->
+			<value name="HardcodeShadowSettings"                              type="integer">0</value>
+			<value name="EnableTiledCaching"                                  type="integer">1</value>
+			<value name="RadiosityCubemapPS"                                  type="integer">1</value>
+			<value name="TaskWorkerThreadCount"                               type="integer">2</value>
+			<value name="ParallelScaleformAndEntityTick"                      type="integer">1</value>
+			<value name="SoftwareZBufferWidth"                                type="integer">4</value>
+			<value name="SoftwareZBufferHeight"                               type="integer">2</value>
+			<value name="DrawSortMethod"                                      type="integer">1</value>
+			<value name="OptimisedHairShader"                                 type="integer">1</value>
+
+			<!-- fbug://ALIENISO-1242 -->
+			<value name="HighResSoftwareZLevels"                              type="string">Production\ENG_ReactorCore</value>
+
+			<!-- Streaming -->
+			<value name="ModelStreamingPlacedBuffers"                         type="integer">1</value>
+			<value name="TextureStreamingStagingHeap"                         type="integer">1</value>
+		</regkey>
+
+		<regkey path="Software\IndirectX\Direct3D\Config">
+			<value name="MaxFramesPerSecond"                                  type="integer">30</value>
+
+			<!-- Increased priority improves frame pacing. Affinity is set to
+			     cores 1 and 2 to avoid stealing CPU time from Wwise on core 0
+				 which is running at the same priority. -->
+			<value name="IdxD3D11ThreadedThreadPriority"                      type="integer">-1</value>
+			<value name="IdxD3D11ThreadedThreadAffinity"                      type="integer">6</value>
+		</regkey>
+
+		<!-- Dynamic Resolution Scaling Settings -->
+		<regkey path="Software\Feral Interactive\Alien Isolation\Setup\DynamicResolutionScaling">
+			<value name="DropDelayFrames"                                     type="integer">2</value>
+			<value name="DropTimeMargin"                                      type="double">1.0</value>
+			<value name="Enable"                                              type="integer">1</value>
+			<value name="FastDropTimeMargin"                                  type="double">-2.0</value>
+			<value name="MinScaling"                                          type="double">0.7</value>
+			<value name="RaiseDelayFrames"                                    type="integer">3</value>
+			<value name="RaiseTimeMargin"                                     type="double">2.0</value>
+			<value name="StepCount"                                           type="integer">10</value>
+			<value name="UseGPUTime"                                          type="integer">1</value>
+			<value name="SwitchLevel3GPUClock"                                type="string">460MHz</value>
+			<value name="SwitchLevel8GPUClock"                                type="string">384MHz</value>
+		</regkey>
+
+		<!-- TAA Settings -->
+		<regkey path="Software\Feral Interactive\Alien Isolation\Setup\TemporalAntiAliasing">
+			<value name="Enable"                                              type="integer">1</value>
+			<value name="ShaderVariant"                                       type="string">optimized</value>
+		</regkey>
+
+		<!-- Sharpening/Upscaler Settings -->
+		<regkey path="Software\Feral Interactive\Alien Isolation\Setup\Upscaler">
+			<value name="Technique"                                           type="integer">2</value>
+			<value name="SharpenAmount"                                       type="double">1.0</value>
+		</regkey>
+	</spec>
+
+
+	<spec>
+		<regkey>
+			<!-- Graphics setting visibility -->
+			<value name="VideoSetting_Field Of View_Visible"                  type="integer" force="true">1</value>
+			<value name="VideoSetting_Depth of Field_Visible"                 type="integer" force="true">1</value>
+			<value name="VideoSetting_Level of Detail_Visible"                type="integer" force="true">1</value>
+			<value name="VideoSetting_Particles_Visible"                      type="integer" force="true">1</value>
+			<value name="VideoSetting_AntiAliasing_Visible"                   type="integer" force="true">0</value>
+			<value name="VideoSetting_ShadowMapResolution_Visible"            type="integer" force="true">1</value>
+			<value name="VideoSetting_ShadowMapping_Visible"                  type="integer" force="true">1</value>
+			<value name="VideoSetting_MotionBlur_Visible"                     type="integer" force="true">1</value>
+			<value name="VideoSetting_ChromaticAberrations_Visible"           type="integer" force="true">1</value>
+			<value name="VideoSetting_FilmGrainIntensity_Visible"             type="integer" force="true">1</value>
+			<value name="VideoSetting_Planar Reflections_Visible"             type="integer" force="true">1</value>
+			<value name="VideoSetting_Volumetric Lighting_Visible"            type="integer" force="true">0</value>
+			<value name="VideoSetting_Screen Space Ambient Occlusion_Visible" type="integer" force="true">1</value>
+			<value name="VideoSetting_Texture Filtering_Visible"              type="integer" force="true">1</value>
+
+			<!-- Resolution/window settings -->
+			<value name="VideoSetting_Windowed Resolution_Visible"            type="integer" force="TRUE">0</value>
+			<value name="VideoSetting_Full Screen_Visible"                    type="integer" force="TRUE">0</value>
+			<value name="VideoSetting_FullScreen Resolution 24bpp_Visible"    type="integer" force="TRUE">0</value>
+			<value name="VideoSetting_FullScreen Resolution 30bpp_Visible"    type="integer" force="TRUE">0</value>
+			<value name="VideoSetting_Vertical Sync_Visible"                  type="integer" force="TRUE">0</value>
+		</regkey>
+	</spec>
+
+
+</gameinfo>
