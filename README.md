@@ -31,6 +31,12 @@ https://gbatemp.net/threads/american-fugitive-60-fps-mod.546605/
 
 ---
 
+**Assassin's Creed The Rebel Collection 60 FPS**
+
+https://gbatemp.net/threads/assassins-creed-the-rebel-collection-60-fps-mod.553706/
+
+---
+
 **Atelier Ryza: Ever Darkness & the Secret Hideout 60 FPS**
 
 https://gbatemp.net/threads/atelier-ryza-ever-darkness-the-secret-hideout-60fps-mod.551538/
