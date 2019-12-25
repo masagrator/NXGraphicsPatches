@@ -49,6 +49,12 @@ https://gbatemp.net/threads/bloodstained-ritual-of-the-night-60-fps-mod.545069/
 
 ---
 
+**Call of Juarez: Gunslinger 60 FPS**
+
+https://gbatemp.net/threads/call-of-juarez-gunslinger-60fps-mod.554663/
+
+---
+
 **Crash Bandicoot N.Sane Trilogy**
 
 _720p Handheld mode_
