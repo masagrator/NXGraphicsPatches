@@ -79,7 +79,7 @@ https://gbatemp.net/threads/crash-team-racing-60-fps-mod.548063/
 
 ---
 
-**Darksiders 2 60 FPS***
+**Darksiders 2 60 FPS**
 
 https://gbatemp.net/threads/darksiders-2-60-fps-mod.555117/
 
