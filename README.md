@@ -79,6 +79,12 @@ https://gbatemp.net/threads/crash-team-racing-60-fps-mod.548063/
 
 ---
 
+**Darksiders 2 60 FPS***
+
+https://gbatemp.net/threads/darksiders-2-60-fps-mod.555117/
+
+---
+
 **Destiny Connect: Tick-Tock Travelers 60 FPS**
 
 https://gbatemp.net/threads/destiny-connect-tick-tock-travelers-60-fps-mod.551645/
@@ -268,6 +274,12 @@ https://gbatemp.net/threads/the-caligula-effect-overdose-60-fps-mod.548358/
 **The Stretchers 60 FPS**
 
 https://gbatemp.net/threads/the-stretchers-60-fps-mod.553073/
+
+---
+
+**The Talos Principle Graphics Settings**
+
+https://gbatemp.net/threads/the-talos-principle-graphics-settings.555045/
 
 ---
 
