@@ -4,7 +4,7 @@
 #2 Lines 4-5: 0x0 = gameplay, 0x1 = cutscene
 #3 Line 6: XOR #1, #2
 Line 7: IF (#3 == 0) pass all next instructions while any of next lines is not 20000000, ELSE jump to line 45
-Line 45: IF (#3 !=0) pass all next instructions while any of next lines is not 20000000, ELSE jump to line 86
+Line 45: IF (#3 !=0) pass all next instructions while any of next lines is not 20000000, ELSE jump to line 87
 To do: check for blade core opening cutscenes pointer
 GOAL:
 - gameplay = 60 FPS 360p fixed, TMAA disabled
