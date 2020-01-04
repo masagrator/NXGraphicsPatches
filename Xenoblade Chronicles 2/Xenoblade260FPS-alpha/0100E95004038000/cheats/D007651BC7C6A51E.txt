@@ -1,7 +1,7 @@
 [comment section]
 60 FPS (Auto) - line 0
-#1 Lines 1-3: 0x0 = gameplay, 0x1 = menu, 0x120 = Blade core opening menu
-#2 Lines 4-5: 0x0 = gameplay, 0x1 = cutscene
+#1 Lines 1-3: 0x0 = default, 0x1 = game menu, 0x120 = Blade core opening menu
+#2 Lines 4-5: 0x0 = default, 0x1 = cutscene
 #3 Line 6: XOR #1, #2
 Line 7: IF (#3 == 0) pass all next instructions while any of next lines is not 20000000, ELSE jump to line 45
 Line 45: IF (#3 !=0) pass all next instructions while any of next lines is not 20000000, ELSE jump to line 1
