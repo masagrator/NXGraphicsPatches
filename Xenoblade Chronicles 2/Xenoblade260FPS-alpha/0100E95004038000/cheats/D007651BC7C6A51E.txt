@@ -8,8 +8,8 @@ Line 45: IF (#3 !=0) pass all next instructions while any of next lines is not 2
 To do: check for blade core opening cutscenes pointer
 GOAL:
 - gameplay = 60 FPS 360p fixed, TMAA disabled
-- Blade core opening menu, game menu = 60 FPS Docked mode settings
-- cutscene, Blade core opening cutscenes, main menu = 30 FPS Docked mode settings
+- Blade core opening menu, game menu, main menu = 60 FPS Docked mode settings
+- cutscene, Blade core opening cutscenes = 30 FPS Docked mode settings
 
 
 [60 FPS (Auto)]
