@@ -91,6 +91,12 @@ https://gbatemp.net/threads/destiny-connect-tick-tock-travelers-60-fps-mod.55164
 
 ---
 
+**DOOM (2016) 60 FPS**
+
+https://gbatemp.net/threads/doom-2016-60fps-mod.555623/
+
+---
+
 **Dragon's Dogma: Dark Arisen 60 FPS**
 
 https://gbatemp.net/threads/dragons-dogma-dark-arisen-60-fps-hack.553129/
