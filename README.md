@@ -49,6 +49,11 @@ https://gbatemp.net/threads/bloodstained-ritual-of-the-night-60-fps-mod.545069/
 
 ---
 
+**Bulletstorm: Duke of Switch Edition 60 FPS*
+https://gbatemp.net/threads/bulletstorm-duke-of-switch-edition-60-fps-mod.548895/
+
+---
+
 **Call of Juarez: Gunslinger 60 FPS**
 
 https://gbatemp.net/threads/call-of-juarez-gunslinger-60fps-mod.554663/
