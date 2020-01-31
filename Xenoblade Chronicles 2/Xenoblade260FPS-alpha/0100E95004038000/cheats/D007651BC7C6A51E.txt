@@ -1,4 +1,5 @@
 [Cheat not usable on Switch because of too low power. Recommended to use with emulators in future]
+[First pointer values are: 0x0 - default, 0x1 - game menu, >0x1 - blade core opening menu; second pointer: 0x0 - default, 0x1 - cutscene]
 [60 FPS (Auto)]
 58020000 00F82308
 78020000 008C4CEC
