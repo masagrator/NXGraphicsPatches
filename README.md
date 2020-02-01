@@ -313,6 +313,12 @@ https://gbatemp.net/threads/the-sinking-city-60-fps-mod.547950/
 
 ---
 
+**Thronebreaker: The Witcher Tales 60 FPS**
+
+https://gbatemp.net/threads/thronebreaker-the-witcher-tales-60-fps-mod.557171
+
+---
+
 **Xenoblade Chronicles 2 (Torna The Golden Country) Graphics Settings**
 
 _Tab "Next Method"_
