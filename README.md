@@ -85,6 +85,12 @@ https://gbatemp.net/threads/crash-team-racing-60-fps-mod.548063/
 
 ---
 
+**Dark Souls 60 FPS mod**
+
+https://gbatemp.net/threads/dark-souls-60-mod.557760/#post-8942013
+
+---
+
 **Darksiders 2 60 FPS**
 
 https://gbatemp.net/threads/darksiders-2-60-fps-mod.555117/
@@ -283,6 +289,12 @@ https://gbatemp.net/threads/the-caligula-effect-overdose-60-fps-mod.548358/
 
 ---
 
+**The Sinking City 60 FPS**
+
+https://gbatemp.net/threads/the-sinking-city-60-fps-mod.547950/
+
+---
+
 **The Stretchers 60 FPS**
 
 https://gbatemp.net/threads/the-stretchers-60-fps-mod.553073/
@@ -304,12 +316,6 @@ https://gbatemp.net/threads/the-witcher-3-enhanced-settings-mod.549937/
 _60 FPS & Dynamic Resolution Tweaks_
 
 https://gbatemp.net/threads/the-witcher-3-60-fps-and-dynamic-resolution-tweaks.550211/
-
----
-
-**The Sinking City 60 FPS**
-
-https://gbatemp.net/threads/the-sinking-city-60-fps-mod.547950/
 
 ---
 
