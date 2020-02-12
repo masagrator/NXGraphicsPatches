@@ -193,6 +193,12 @@ https://gbatemp.net/threads/lost-sphear-60-fps-mod.546552/
 
 ---
 
+**Luigi's Mansion 3 60 FPS**
+
+https://gbatemp.net/threads/luigis-mansion-3-60fps-mod.557992/
+
+---
+
 **Mario + Rabbids Kingdom Battle 60 FPS**
 
 https://gbatemp.net/threads/mario-rabbids-kingdom-battle-60-fps-mod.548057/
