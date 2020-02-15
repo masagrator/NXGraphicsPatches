@@ -91,6 +91,12 @@ https://gbatemp.net/threads/dark-souls-60-mod.557760/#post-8942013
 
 ---
 
+**Darksiders: Genesis 60 FPS**
+
+https://gbatemp.net/threads/darksiders-genesis-60fps-mod.558180/
+
+---
+
 **Darksiders 2 60 FPS**
 
 https://gbatemp.net/threads/darksiders-2-60-fps-mod.555117/
