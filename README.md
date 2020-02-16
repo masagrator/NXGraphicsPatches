@@ -223,6 +223,12 @@ https://gbatemp.net/threads/new-super-luckys-tale-60-fps-mod.551832/
 
 ---
 
+**Ni no Kuni: Wrath of the White Witch 60 FPS**
+
+https://gbatemp.net/threads/ni-no-kuni-wrath-of-the-white-witch-60-fps-hack.558225/
+
+---
+
 **Oninaki 60 FPS**
 
 https://gbatemp.net/threads/oninaki-60-fps-mod.546662/
