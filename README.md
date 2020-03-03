@@ -211,6 +211,12 @@ https://gbatemp.net/threads/mario-rabbids-kingdom-battle-60-fps-mod.548057/
 
 ---
 
+**Metro Redux Collection 60 FPS**
+
+https://gbatemp.net/threads/metro-redux-collection-60fps-mod.559081/
+
+---
+
 **Monster Hunter Generations Ultimate 60 FPS**
 
 https://gbatemp.net/threads/monster-hunter-generations-ultimate-60-fps-hack.553053/
