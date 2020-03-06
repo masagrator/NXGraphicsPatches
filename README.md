@@ -247,6 +247,12 @@ https://gbatemp.net/threads/overcooked-2-60-fps-mod.545814/
 
 ---
 
+**Pokémon Mystery Dungeon: Rescue Team DX 60 FPS**
+
+https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/
+
+--
+
 **Rain World 60 FPS**
 
 https://gbatemp.net/threads/rain-world-60-fps-mod.548228/#post-8792302
