@@ -247,6 +247,12 @@ https://gbatemp.net/threads/overcooked-2-60-fps-mod.545814/
 
 ---
 
+**Persona 5 Scramble 60 FPS**
+
+https://gbatemp.net/threads/persona-5-scramble-60-fps-hack.560111/
+
+---
+
 **Pokémon Mystery Dungeon: Rescue Team DX 60 FPS**
 
 https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/
