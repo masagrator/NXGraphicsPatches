@@ -193,6 +193,12 @@ https://gbatemp.net/threads/kirby-star-allies-60fps-hack.551834/
 
 ---
 
+**L.A. Noire Debug Graphics Settings**
+
+https://gbatemp.net/threads/l-a-noire-debug-graphics-settings.563516/
+
+---
+
 **Lost Sphear 60 FPS**
 
 https://gbatemp.net/threads/lost-sphear-60-fps-mod.546552/
@@ -268,6 +274,12 @@ https://gbatemp.net/threads/pokemon-mystery-dungeon-dx-60-fps-mod.559469/
 **Rain World 60 FPS**
 
 https://gbatemp.net/threads/rain-world-60-fps-mod.548228/#post-8792302
+
+---
+
+**Resident Evil 5 & 6 30 FPS locks**
+
+https://gbatemp.net/threads/re5-and-6-30fps-cap.563232/#post-9029852
 
 ---
 
