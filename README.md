@@ -201,7 +201,7 @@ https://gbatemp.net/threads/l-a-noire-debug-graphics-settings.563516/
 
 **Little Nightmares 30 FPS lock**
 
-https://gbatemp.net/threads/a-mod-to-make-little-nightmares-runs-at-cap-30fps.563563/#post-9054258
+https://gbatemp.net/threads/a-mod-to-make-little-nightmares-runs-at-cap-30fps.563563/#post-9054365
 
 ---
 
