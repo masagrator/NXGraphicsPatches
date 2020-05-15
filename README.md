@@ -187,6 +187,12 @@ https://gbatemp.net/threads/i-am-setsuna-60-fps-mod.546577/
 
 ---
 
+**Ion Fury 60 FPS**
+
+https://gbatemp.net/threads/ion-fury-60-fps-hack.565209/
+
+---
+
 **Kirby Star Allies 60 FPS**
 
 https://gbatemp.net/threads/kirby-star-allies-60fps-hack.551834/
