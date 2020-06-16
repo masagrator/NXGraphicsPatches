@@ -43,9 +43,33 @@ https://gbatemp.net/threads/atelier-ryza-ever-darkness-the-secret-hideout-60fps-
 
 ---
 
+**BioShock Collection 60 FPS**
+
+https://gbatemp.net/threads/bioshock-collection-60-fps-mod.566856/
+
+---
+
 **Bloodstained: Ritual of the Night 60 FPS**
 
 https://gbatemp.net/threads/bloodstained-ritual-of-the-night-60-fps-mod.545069/
+
+---
+
+**Borderlands: The Pre-Sequel Ultimate Edition 60FPS**
+
+https://gbatemp.net/threads/borderlands-the-pre-sequel-ultimate-edition-60fps-mod.566734/
+
+---
+
+**Borderlands 1: Game of the Year Edition 60FPS**
+
+https://gbatemp.net/threads/borderlands-1-game-of-the-year-edition-60fps-mod.566432/
+
+---
+
+**Borderlands 2: Game of the Year Edition 60FPS**
+
+https://gbatemp.net/threads/borderlands-2-game-of-the-year-edition-60fps-mod.566668/
 
 ---
 
@@ -235,9 +259,21 @@ https://gbatemp.net/threads/metro-redux-collection-60fps-mod.559081/
 
 ---
 
+**Minecraft Dungeons 60 FPS**
+
+https://gbatemp.net/threads/minecraft-dungeons-60fps-mod.566250/
+
+---
+
 **Monster Hunter Generations Ultimate 60 FPS**
 
 https://gbatemp.net/threads/monster-hunter-generations-ultimate-60-fps-hack.553053/
+
+---
+
+**Moving Out 60 FPS**
+
+https://gbatemp.net/threads/moving-out-60-fps-mod.567591/
 
 ---
 
@@ -268,6 +304,12 @@ https://gbatemp.net/threads/overcooked-2-60-fps-mod.545814/
 **Panzer Dragoon 60 FPS**
 
 https://gbatemp.net/threads/panzer-dragoon-60-fps-mod.560962/
+
+---
+
+**Pawarumi 60 FPS**
+
+https://gbatemp.net/threads/pawarumi-60-fps-mod.557020/
 
 ---
 
