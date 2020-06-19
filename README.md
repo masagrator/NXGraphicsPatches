@@ -349,6 +349,12 @@ https://gbatemp.net/threads/risk-of-rain-2-60-fps-mod.547161/
 
 ---
 
+**RUINER 60 FPS**
+
+https://gbatemp.net/threads/ruiner-60-fps-mod.567855/
+
+---
+
 **Senran Kagura Peach Ball 60 FPS**
 
 https://gbatemp.net/threads/senran-kagura-peach-ball-60-fps.553086/
