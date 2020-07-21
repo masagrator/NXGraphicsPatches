@@ -309,7 +309,7 @@ https://gbatemp.net/threads/panzer-dragoon-60-fps-mod.560962/
 
 **Paper Mario: The Origami King 60 FPS**
 
-https://gbatemp.net/threads/paper-mario-the-origami-king-60-fps-mod.570306/#post-9138473
+https://gbatemp.net/threads/paper-mario-the-origami-king-60-fps-mod.570306
 
 ---
 
