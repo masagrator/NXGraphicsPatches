@@ -1,3 +1,7 @@
+Recommended tools to use instead of those patches whenever possible for Nintendo Switch hardware:
+- [FPSLocker](https://github.com/masagrator/FPSLocker)
+- [ReverseNX-RT](https://github.com/masagrator/ReverseNX-RT)
+
 More information about patches:
 
 
